@@ -1,0 +1,410 @@
+{
+ "15_cats_do_not_swim": [
+  "upscale 4.0x"
+ ],
+ "16_dogs_are_liars": [
+  "upscale 3.3x"
+ ],
+ "17_constructive_criticism": [
+  "upscale 3.3x"
+ ],
+ "18_the_stairwell_tarot": [
+  "upscale 3.3x"
+ ],
+ "19_you_will_not_break_me": [
+  "upscale 3.3x"
+ ],
+ "20_no_pants_club": [
+  "upscale 4.0x"
+ ],
+ "21_mana_toast_diner": [
+  "upscale 3.3x"
+ ],
+ "22_emotional_support_raptor": [
+  "upscale 3.4x"
+ ],
+ "23_would_not_crawl_again": [
+  "upscale 2.9x"
+ ],
+ "24_no_continues": [
+  "upscale 4.0x"
+ ],
+ "F7_donut_world_tour": [
+  "upscale 3.4x"
+ ],
+ "F8_mongo_good_boy": [
+  "upscale 3.7x"
+ ],
+ "F9_carl_will_not_break": [
+  "upscale 3.6x"
+ ],
+ "F10_mordecai_no": [
+  "upscale 4.1x"
+ ],
+ "F11_magic_missile_girl": [
+  "upscale 3.3x"
+ ],
+ "F12_you_should_thank_me": [
+  "upscale 3.5x"
+ ],
+ "F13_donut_follower_count": [
+  "upscale 3.7x"
+ ],
+ "F14_samantha_punk_flyer": [
+  "upscale 3.6x"
+ ],
+ "F15_katia_crest": [
+  "upscale 3.2x"
+ ],
+ "F16_prepotente_screams": [
+  "upscale 4.1x"
+ ],
+ "F17_zev_press_pass": [
+  "upscale 3.3x"
+ ],
+ "F18_crawl_walk": [
+  "upscale 2.8x"
+ ],
+ "F19_carls_bomb_shop": [
+  "upscale 2.7x"
+ ],
+ "F20_donut_line_art": [
+  "upscale 4.0x"
+ ],
+ "F21_attack_of_the_good_boy": [
+  "upscale 3.4x"
+ ],
+ "F22_mordecais_bar": [
+  "upscale 2.8x"
+ ],
+ "F23_desperado_club": [
+  "upscale 3.3x"
+ ],
+ "F24_barefoot_belligerent": [
+  "upscale 3.5x"
+ ],
+ "F25_donut_vs_carl_fight": [
+  "upscale 3.3x"
+ ],
+ "F26_made_a_cat_famous": [
+  "upscale 2.7x"
+ ],
+ "F27_samantha_kawaii": [
+  "upscale 3.9x"
+ ],
+ "F28_mongo_exe": [
+  "upscale 4.3x"
+ ],
+ "F29_legendary_foot": [
+  "upscale 3.6x"
+ ],
+ "F30_great_wave_donut": [
+  "upscale 3.4x"
+ ],
+ "F31_book_stack": [
+  "upscale 3.3x"
+ ],
+ "F32_dungeon_vice": [
+  "upscale 3.3x"
+ ],
+ "F33_mordecai_field_guide": [
+  "upscale 3.5x"
+ ],
+ "F34_katia_stained_glass": [
+  "upscale 3.3x"
+ ],
+ "F35_donut_postage_stamp": [
+  "upscale 3.5x"
+ ],
+ "F36_mongo_sugar_skull": [
+  "upscale 3.3x"
+ ],
+ "F37_crawl_crew_rubberhose": [
+  "upscale 4.1x"
+ ],
+ "F38_carl_comic_one": [
+  "upscale 3.6x"
+ ],
+ "F39_the_princess_tarot": [
+  "upscale 3.3x"
+ ],
+ "F40_borant_corporate": [
+  "upscale 4.0x"
+ ],
+ "F41_raptor_crossing": [
+  "upscale 3.3x"
+ ],
+ "F42_smol_queen": [
+  "upscale 3.6x"
+ ],
+ "F43_carl_most_wanted": [
+  "upscale 3.5x"
+ ],
+ "F44_dungeon_dreams_vapor": [
+  "upscale 3.8x"
+ ],
+ "F45_prepotente_metal": [
+  "upscale 3.3x"
+ ],
+ "F46_visit_the_dungeon": [
+  "upscale 3.4x"
+ ],
+ "S1_carl_no_pants": [
+  "upscale 1.4x"
+ ],
+ "S2_carl_kick_it": [
+  "upscale 1.3x"
+ ],
+ "S3_carl_dynamite": [
+  "upscale 1.3x"
+ ],
+ "S4_carl_barefoot": [
+  "upscale 1.4x"
+ ],
+ "S5_carl_spite": [
+  "upscale 1.4x"
+ ],
+ "S6_carl_goddamn_it": [
+  "upscale 1.3x"
+ ],
+ "S7_carl_hp_one": [
+  "upscale 1.4x"
+ ],
+ "S8_carl_boxer_order": [
+  "upscale 1.3x"
+ ],
+ "S9_carl_open_kicking": [
+  "upscale 1.5x"
+ ],
+ "S10_donut_magic_missile": [
+  "upscale 1.3x"
+ ],
+ "S11_donut_bow_princess": [
+  "upscale 1.3x"
+ ],
+ "S12_donut_followers": [
+  "upscale 1.3x"
+ ],
+ "S13_donut_grand_champion": [
+  "upscale 1.3x"
+ ],
+ "S14_donut_mongo_no": [
+  "upscale 1.4x"
+ ],
+ "S15_donut_iconic": [
+  "upscale 1.4x"
+ ],
+ "S16_donut_empress": [
+  "upscale 1.3x"
+ ],
+ "S17_donut_in_charge": [
+  "upscale 1.4x"
+ ],
+ "S18_donut_princess_carl": [
+  "upscale 1.4x"
+ ],
+ "S19_mongo_snack_time": [
+  "upscale 1.4x"
+ ],
+ "S20_mongo_metal": [
+  "upscale 1.4x"
+ ],
+ "S21_mongo_k9": [
+  "upscale 1.3x"
+ ],
+ "S22_mongo_virtual_pet": [
+  "upscale 1.3x"
+ ],
+ "S23_mongo_rad_raptor": [
+  "upscale 1.4x"
+ ],
+ "S24_mongo_beware": [
+  "upscale 1.4x"
+ ],
+ "S25_mongo_bestiary": [
+  "upscale 1.4x"
+ ],
+ "S26_mongo_zoomies": [
+  "upscale 1.4x"
+ ],
+ "S27_mongo_loves_you": [
+  "upscale 1.4x"
+ ],
+ "S28_mordecai_potion": [
+  "upscale 1.3x"
+ ],
+ "S29_mordecai_read_manual": [
+  "upscale 1.3x"
+ ],
+ "S30_mordecai_name_tag": [
+  "upscale 1.4x"
+ ],
+ "S31_mordecai_hermit": [
+  "upscale 1.3x"
+ ],
+ "S32_mordecai_guide_in": [
+  "upscale 1.4x"
+ ],
+ "S33_mordecai_ugh": [
+  "upscale 1.4x"
+ ],
+ "S34_mordecai_good_luck": [
+  "upscale 1.4x"
+ ],
+ "S35_mordecai_okayest": [
+  "upscale 1.4x"
+ ],
+ "S36_mordecai_stir": [
+  "upscale 1.4x"
+ ],
+ "S37_katia_hold_line": [
+  "upscale 1.3x"
+ ],
+ "S38_katia_size_up": [
+  "upscale 1.4x"
+ ],
+ "S39_katia_tank": [
+  "upscale 1.3x"
+ ],
+ "S40_katia_protector": [
+  "upscale 1.4x"
+ ],
+ "S41_katia_shield_maiden": [
+  "upscale 1.4x"
+ ],
+ "S42_katia_deco": [
+  "upscale 1.3x"
+ ],
+ "S43_katia_grim_metal": [
+  "upscale 1.3x"
+ ],
+ "S44_katia_front_line": [
+  "upscale 1.4x"
+ ],
+ "S45_katia_blocked": [
+  "upscale 1.4x"
+ ],
+ "S46_samantha_stabby": [
+  "upscale 1.4x"
+ ],
+ "S47_samantha_body_wanted": [
+  "upscale 1.3x"
+ ],
+ "S48_samantha_demigoddess": [
+  "upscale 1.3x"
+ ],
+ "S49_samantha_strike": [
+  "upscale 1.3x"
+ ],
+ "S50_samantha_murder": [
+  "upscale 1.3x"
+ ],
+ "S51_samantha_metal": [
+  "upscale 1.3x"
+ ],
+ "S52_samantha_kiss_death": [
+  "upscale 1.4x"
+ ],
+ "S53_samantha_death_tarot": [
+  "upscale 1.3x"
+ ],
+ "S54_samantha_she_bites": [
+  "upscale 1.4x"
+ ],
+ "S55_prepotente_scream": [
+  "upscale 1.4x"
+ ],
+ "S56_prepotente_magnificent": [
+  "upscale 1.3x"
+ ],
+ "S57_prepotente_crossing": [
+  "upscale 1.4x"
+ ],
+ "S58_prepotente_goty": [
+  "upscale 1.4x"
+ ],
+ "S59_prepotente_hail": [
+  "upscale 1.3x"
+ ],
+ "S60_prepotente_bestiary": [
+  "upscale 1.3x"
+ ],
+ "S61_prepotente_boss": [
+  "upscale 1.4x"
+ ],
+ "S62_prepotente_vibes": [
+  "upscale 1.4x"
+ ],
+ "S63_prepotente_cheese": [
+  "upscale 1.3x"
+ ],
+ "S64_zev_press_pass": [
+  "upscale 1.4x"
+ ],
+ "S65_zev_on_schedule": [
+  "upscale 1.4x"
+ ],
+ "S66_zev_smile": [
+  "upscale 1.5x"
+ ],
+ "S67_zev_pr_fish": [
+  "upscale 1.4x"
+ ],
+ "S68_zev_handler": [
+  "upscale 1.3x"
+ ],
+ "S69_zev_on_air": [
+  "upscale 1.4x"
+ ],
+ "S70_zev_forms": [
+  "upscale 1.4x"
+ ],
+ "S71_zev_damage_control": [
+  "upscale 1.4x"
+ ],
+ "S72_zev_on_brand": [
+  "upscale 1.4x"
+ ],
+ "S73_system_out_of_bed": [
+  "upscale 1.3x"
+ ],
+ "S74_system_bronze_box": [
+  "upscale 1.4x"
+ ],
+ "S75_system_level_up": [
+  "upscale 1.4x"
+ ],
+ "S76_system_viewers": [
+  "upscale 1.4x"
+ ],
+ "S77_system_watching": [
+  "upscale 1.4x"
+ ],
+ "S78_system_collapse": [
+  "upscale 1.3x"
+ ],
+ "S79_system_patch_notes": [
+  "upscale 1.4x"
+ ],
+ "S80_system_sarcasm": [
+  "upscale 1.4x"
+ ],
+ "S81_system_floor_cleared": [
+  "upscale 1.4x"
+ ],
+ "S82_trio_royal_court": [
+  "upscale 1.3x"
+ ],
+ "S83_trio_band": [
+  "upscale 1.4x"
+ ],
+ "S84_trio_stairs": [
+  "upscale 1.4x"
+ ],
+ "S85_trio_squad_stack": [
+  "upscale 1.4x"
+ ],
+ "S86_trio_fool_tarot": [
+  "upscale 1.3x"
+ ]
+}

@@ -1,0 +1,13 @@
+# Print-ready files and raw AI output are too big for git (designs/print alone is ~1.2 GB).
+# The site only needs designs/preview, which stays in the repo.
+designs/raw/
+designs/raw-white-donut/
+designs/print/
+designs/cleaned/
+mockups/templates/
+
+# Build output and local tools
+dist/
+__pycache__/
+*.pyc
+.claude/

@@ -1,0 +1,3528 @@
+[
+ {
+  "id": "01_floor_one_survivor",
+  "title": "Floor One Survivor",
+  "track": "sell",
+  "style": "Vintage park badge",
+  "hook": "Every reader remembers barely surviving the first floor. National-park badges are a proven seller.",
+  "listing": "Floor One Survivor Shirt | Retro Dungeon Crawler Badge Tee | LitRPG Fan Gift",
+  "tags": [
+   "litrpg",
+   "dungeon crawler",
+   "fantasy reader",
+   "retro badge",
+   "bookish gift"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "retro-70s",
+   "subject": "dungeon",
+   "humor": "gamer",
+   "palette": "warm-retro"
+  },
+  "batch": 1
+ },
+ {
+  "id": "02_kick_everything",
+  "title": "Kick Everything",
+  "track": "sell",
+  "style": "Heavy-metal band tee",
+  "hook": "Barefoot kicking is the hero's whole fighting style. Metal band tees look great on black shirts.",
+  "listing": "Kick Everything Metal Shirt | No Shoes No Mercy | Funny Fantasy Reader Tee",
+  "tags": [
+   "metal tee",
+   "litrpg",
+   "goblin",
+   "funny fantasy",
+   "bookish"
+  ],
+  "attrs": {
+   "format": "band",
+   "art": "metal",
+   "subject": "crawler",
+   "humor": "dark",
+   "palette": "dark-red"
+  },
+  "batch": 1
+ },
+ {
+  "id": "03_loot_box_tiers",
+  "title": "Loot Box Tier List",
+  "track": "sell",
+  "style": "16-bit RPG menu",
+  "hook": "Loot boxes are a recurring joke in the books, and the pants punchline lands for fans.",
+  "listing": "Loot Box Tier List Shirt | Still No Pants | Pixel RPG Gamer Tee",
+  "tags": [
+   "loot box",
+   "pixel art",
+   "rpg",
+   "gamer gift",
+   "litrpg"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "pixel",
+   "subject": "dungeon",
+   "humor": "gamer",
+   "palette": "neon"
+  },
+  "batch": 1
+ },
+ {
+  "id": "04_achievement_exploded",
+  "title": "Achievement: It Exploded",
+  "track": "sell",
+  "style": "Game UI pop-up",
+  "hook": "The achievement announcements are the series' signature format. This one works as a gamer joke even for non-readers.",
+  "listing": "New Achievement Shirt | You Looked At It And It Exploded | Gamer Humor Tee",
+  "tags": [
+   "achievement unlocked",
+   "gamer humor",
+   "litrpg",
+   "rpg",
+   "funny tee"
+  ],
+  "attrs": {
+   "format": "game-ui",
+   "art": "pixel",
+   "subject": "system",
+   "humor": "meta",
+   "palette": "neon"
+  },
+  "batch": 1
+ },
+ {
+  "id": "05_her_majesty_viewers",
+  "title": "Her Majesty Requires More Viewers",
+  "track": "sell",
+  "style": "Baroque cartoon portrait",
+  "hook": "A royal show cat sells to cat people and fans alike, and pink-and-gold cats are the top-selling fan theme.",
+  "listing": "Royal Cat Shirt | Her Majesty Requires More Viewers | Sassy Cat Lover Tee",
+  "tags": [
+   "cat lover",
+   "sassy cat",
+   "tiara cat",
+   "bookish",
+   "funny cat shirt"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "comic",
+   "subject": "cat",
+   "humor": "sassy",
+   "palette": "pink-gold"
+  },
+  "batch": 1
+ },
+ {
+  "id": "06_sponsored_by_nobody",
+  "title": "Sponsored By Nobody",
+  "track": "sell",
+  "style": "Racing sponsor patches",
+  "hook": "Alien sponsors are a running gag, and racing-jacket patch collages are trending streetwear.",
+  "listing": "Sponsored By Nobody Shirt | Alien Corporation Patch Racing Tee | Sci-Fi Humor",
+  "tags": [
+   "racing patches",
+   "sci-fi humor",
+   "alien",
+   "streetwear",
+   "litrpg"
+  ],
+  "attrs": {
+   "format": "patches",
+   "art": "retro-ad",
+   "subject": "system",
+   "humor": "meta",
+   "palette": "primary"
+  },
+  "batch": 1
+ },
+ {
+  "id": "07_safe_room_regular",
+  "title": "Safe Room Regular",
+  "track": "sell",
+  "style": "Neon bar sign",
+  "hook": "The safe-room bars are the cozy beat of every floor, and neon signs pop on black shirts.",
+  "listing": "Safe Room Regular Neon Shirt | Open Between Floors | Fantasy Tavern Tee",
+  "tags": [
+   "neon sign",
+   "tavern",
+   "fantasy reader",
+   "bar shirt",
+   "litrpg"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "neon",
+   "subject": "dungeon",
+   "humor": "wholesome",
+   "palette": "neon"
+  },
+  "batch": 1
+ },
+ {
+  "id": "08_next_stairwell",
+  "title": "Next Stairwell 2 Miles",
+  "track": "sell",
+  "style": "Distressed road sign",
+  "hook": "The floor-collapse countdown creates constant dread, and road-sign parodies sell well.",
+  "listing": "Next Stairwell Road Sign Shirt | Collapse In 3 Days | Dungeon Crawler Humor",
+  "tags": [
+   "road sign",
+   "dungeon",
+   "litrpg",
+   "funny fantasy",
+   "vintage"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "retro-ad",
+   "subject": "dungeon",
+   "humor": "dark",
+   "palette": "earthy"
+  },
+  "batch": 1
+ },
+ {
+  "id": "09_explosives_love_language",
+  "title": "My Love Language Is Explosives",
+  "track": "sell",
+  "style": "Vintage dynamite label",
+  "hook": "Bomb-crafting is the hero's signature move, and 'love language' shirts are evergreen gift tees.",
+  "listing": "My Love Language Is Explosives Shirt | Vintage Dynamite Label | Funny Gift",
+  "tags": [
+   "love language",
+   "dynamite",
+   "funny gift",
+   "vintage label",
+   "litrpg"
+  ],
+  "attrs": {
+   "format": "label",
+   "art": "vintage-litho",
+   "subject": "crawler",
+   "humor": "absurd",
+   "palette": "warm-retro"
+  },
+  "batch": 1
+ },
+ {
+  "id": "10_dungeon_is_watching",
+  "title": "The Dungeon Is Watching",
+  "track": "sell",
+  "style": "Woodcut occult poster",
+  "hook": "The whole series is a galaxy-wide reality show, and a two-ink woodcut is cheap to screen print.",
+  "listing": "The Dungeon Is Watching Shirt | Smile For The Viewers | Dark Fantasy Woodcut Tee",
+  "tags": [
+   "dark fantasy",
+   "woodcut",
+   "occult",
+   "litrpg",
+   "horror reader"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "woodcut",
+   "subject": "system",
+   "humor": "dark",
+   "palette": "dark-red"
+  },
+  "batch": 1
+ },
+ {
+  "id": "11_llamas_did_nothing_wrong",
+  "title": "Llamas Did Nothing Wrong",
+  "track": "sell",
+  "style": "70s thrift-store",
+  "hook": "A deep cut on the goblin-versus-llama war that reads as plain absurd humor to everyone else.",
+  "listing": "Llamas Did Nothing Wrong Shirt | The Goblins Started It | Retro Llama Tee",
+  "tags": [
+   "llama",
+   "retro 70s",
+   "absurd humor",
+   "goblin",
+   "litrpg"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "retro-70s",
+   "subject": "monster",
+   "humor": "absurd",
+   "palette": "warm-retro"
+  },
+  "batch": 1
+ },
+ {
+  "id": "12_good_boy_bad_intentions",
+  "title": "Good Boy, Bad Intentions",
+  "track": "sell",
+  "style": "Kawaii cartoon",
+  "hook": "A baby raptor 'good boy' reads to fans and still works as a cute dino shirt for anyone.",
+  "listing": "Good Boy Bad Intentions Shirt | Cute Baby Raptor Dinosaur | Kawaii Dino Tee",
+  "tags": [
+   "dinosaur",
+   "kawaii",
+   "cute dino",
+   "velociraptor",
+   "pet lover"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "dino",
+   "humor": "wholesome",
+   "palette": "pastel"
+  },
+  "batch": 1
+ },
+ {
+  "id": "13_not_a_game_show",
+  "title": "This Is Not A Game Show",
+  "track": "sell",
+  "style": "80s airbrush TV",
+  "hook": "The game-show-from-hell premise in loud 80s retro style.",
+  "listing": "This Is Not A Game Show Shirt | It's Worse | Retro 80s TV Horror Tee",
+  "tags": [
+   "80s retro",
+   "game show",
+   "horror comedy",
+   "litrpg",
+   "synthwave"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "80s-synth",
+   "subject": "system",
+   "humor": "meta",
+   "palette": "neon"
+  },
+  "batch": 1
+ },
+ {
+  "id": "14_crawler_level_up",
+  "title": "Crawler Character Sheet",
+  "track": "sell",
+  "style": "Pixel terminal stats",
+  "hook": "Spite and 'Pants: 0' are the core jokes. A one-ink design is the cheapest to print.",
+  "listing": "Crawler Character Sheet Shirt | Spite Max Pants Zero | RPG Stats Tee",
+  "tags": [
+   "character sheet",
+   "rpg stats",
+   "gamer humor",
+   "litrpg",
+   "terminal"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "minimal",
+   "subject": "crawler",
+   "humor": "gamer",
+   "palette": "mono"
+  },
+  "batch": 1
+ },
+ {
+  "id": "F1_goddamn_it_donut",
+  "title": "Goddamn It, Donut!",
+  "track": "personal",
+  "style": "Modern comic",
+  "hook": "The most-quoted line in the series, in a comic panel. For personal wear only: it uses the book's names.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "comic",
+   "art": "comic",
+   "subject": "trio",
+   "humor": "quote",
+   "palette": "pink-gold"
+  },
+  "batch": 1
+ },
+ {
+  "id": "F2_princess_donut_fan_club",
+  "title": "Princess Donut Fan Club",
+  "track": "personal",
+  "style": "Varsity crest",
+  "hook": "Fan-club varsity riff on the top-selling fan theme. For personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "crest",
+   "art": "retro-70s",
+   "subject": "donut",
+   "humor": "sassy",
+   "palette": "pink-gold"
+  },
+  "batch": 1
+ },
+ {
+  "id": "F3_mongo_metal",
+  "title": "MONGO (Death Metal)",
+  "track": "personal",
+  "style": "Death-metal logo",
+  "hook": "Mongo as a death-metal band. For personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "band",
+   "art": "metal",
+   "subject": "mongo",
+   "humor": "dark",
+   "palette": "mono"
+  },
+  "batch": 1
+ },
+ {
+  "id": "F4_carls_kick_academy",
+  "title": "Carl's Kick Academy",
+  "track": "personal",
+  "style": "80s karate poster",
+  "hook": "A dojo tee for the barefoot hero. For personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "80s-synth",
+   "subject": "carl",
+   "humor": "absurd",
+   "palette": "dark-red"
+  },
+  "batch": 1
+ },
+ {
+  "id": "F5_mordecai_potions",
+  "title": "Mordecai's Potions & Poultices",
+  "track": "personal",
+  "style": "Victorian apothecary",
+  "hook": "An in-world business label for the game guide. For personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "label",
+   "art": "vintage-litho",
+   "subject": "mordecai",
+   "humor": "absurd",
+   "palette": "earthy"
+  },
+  "batch": 1
+ },
+ {
+  "id": "F6_party_select",
+  "title": "Choose Your Crawler",
+  "track": "personal",
+  "style": "16-bit character select",
+  "hook": "The core trio on a SNES-style select screen. For personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "pixel",
+   "subject": "trio",
+   "humor": "gamer",
+   "palette": "primary"
+  },
+  "batch": 1
+ },
+ {
+  "id": "15_cats_do_not_swim",
+  "title": "Cats Do Not Swim",
+  "track": "sell",
+  "style": "Retro surf-club badge",
+  "hook": "A grumpy royal cat refusing to surf; reads to any cat owner.",
+  "listing": "Cats Do Not Swim Shirt | Retro Surf Club Grumpy Cat Tee | Funny Cat Lover Gift",
+  "tags": [
+   "cat lover",
+   "surf club",
+   "retro",
+   "grumpy cat",
+   "funny cat shirt"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "retro-70s",
+   "subject": "cat",
+   "humor": "sassy",
+   "palette": "warm-retro"
+  },
+  "batch": 2
+ },
+ {
+  "id": "16_dogs_are_liars",
+  "title": "Dogs Are Liars",
+  "track": "sell",
+  "style": "Protest picket sign",
+  "hook": "An outraged cat on a one-cat protest march.",
+  "listing": "Dogs Are Liars Shirt | Cat Protest Sign | Funny Cat vs Dog Tee",
+  "tags": [
+   "cat vs dog",
+   "protest sign",
+   "funny cat",
+   "sassy cat",
+   "cat lover gift"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "comic",
+   "subject": "cat",
+   "humor": "sassy",
+   "palette": "primary"
+  },
+  "batch": 2
+ },
+ {
+  "id": "17_constructive_criticism",
+  "title": "It's Called Constructive Criticism",
+  "track": "sell",
+  "style": "Victorian typographic",
+  "hook": "Every sassy friend's defence, on an ornate Victorian card.",
+  "listing": "It's Not An Insult It's Constructive Criticism Shirt | Sassy Vintage Cat Tee",
+  "tags": [
+   "sassy",
+   "vintage typography",
+   "cat",
+   "funny saying",
+   "gift for her"
+  ],
+  "attrs": {
+   "format": "typographic",
+   "art": "vintage-litho",
+   "subject": "cat",
+   "humor": "sassy",
+   "palette": "pink-gold"
+  },
+  "batch": 2
+ },
+ {
+  "id": "18_the_stairwell_tarot",
+  "title": "The Stairwell (Tarot XVIII)",
+  "track": "sell",
+  "style": "Tarot card",
+  "hook": "Tarot tees are evergreen; card eighteen for the eighteen floors.",
+  "listing": "The Stairwell Tarot Card Shirt | Dark Fantasy Dungeon Tarot Tee | Witchy Gift",
+  "tags": [
+   "tarot",
+   "dark fantasy",
+   "dungeon",
+   "witchy",
+   "occult"
+  ],
+  "attrs": {
+   "format": "tarot",
+   "art": "vintage-litho",
+   "subject": "dungeon",
+   "humor": "dark",
+   "palette": "dark-red"
+  },
+  "batch": 2
+ },
+ {
+  "id": "19_you_will_not_break_me",
+  "title": "You Will Not Break Me",
+  "track": "sell",
+  "style": "Grunge gym poster",
+  "hook": "A spite-fuelled mantra that doubles as a gym shirt.",
+  "listing": "You Will Not Break Me Shirt | Grunge Motivational Gym Tee | Spite Is Cardio",
+  "tags": [
+   "gym shirt",
+   "motivational",
+   "grunge",
+   "spite",
+   "litrpg"
+  ],
+  "attrs": {
+   "format": "typographic",
+   "art": "grunge",
+   "subject": "crawler",
+   "humor": "dark",
+   "palette": "mono"
+  },
+  "batch": 2
+ },
+ {
+  "id": "20_no_pants_club",
+  "title": "No Pants Club",
+  "track": "sell",
+  "style": "Varsity crest",
+  "hook": "Heart boxers as a coat of arms; a universal joke.",
+  "listing": "No Pants Club Shirt | Funny Varsity Crest Boxer Shorts Tee | Pajama Gift",
+  "tags": [
+   "no pants",
+   "varsity",
+   "funny crest",
+   "pajama shirt",
+   "lazy day"
+  ],
+  "attrs": {
+   "format": "crest",
+   "art": "retro-70s",
+   "subject": "crawler",
+   "humor": "absurd",
+   "palette": "pink-gold"
+  },
+  "batch": 2
+ },
+ {
+  "id": "21_mana_toast_diner",
+  "title": "Mana Toast Diner",
+  "track": "sell",
+  "style": "50s diner sign",
+  "hook": "A greasy-spoon sign for magical breakfast; gamer and foodie humour.",
+  "listing": "Mana Toast Diner Shirt | Retro 50s Diner Sign RPG Breakfast Tee | Gamer Gift",
+  "tags": [
+   "diner",
+   "retro 50s",
+   "rpg",
+   "gamer gift",
+   "breakfast"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "retro-ad",
+   "subject": "dungeon",
+   "humor": "gamer",
+   "palette": "primary"
+  },
+  "batch": 2
+ },
+ {
+  "id": "22_emotional_support_raptor",
+  "title": "Emotional Support Raptor",
+  "track": "sell",
+  "style": "Kawaii mascot",
+  "hook": "A baby raptor in a service vest; cute-dino crowd plus fans.",
+  "listing": "Emotional Support Raptor Shirt | Cute Kawaii Dinosaur Service Pet Tee",
+  "tags": [
+   "dinosaur",
+   "kawaii",
+   "emotional support",
+   "cute dino",
+   "raptor"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "dino",
+   "humor": "wholesome",
+   "palette": "pastel"
+  },
+  "batch": 2
+ },
+ {
+  "id": "23_would_not_crawl_again",
+  "title": "1 Star. Would Not Crawl Again.",
+  "track": "sell",
+  "style": "Review card UI",
+  "hook": "A one-star dungeon review; meta reality-show humour.",
+  "listing": "1 Star Would Not Crawl Again Shirt | Funny Dungeon Review Tee | Fantasy Gamer",
+  "tags": [
+   "one star review",
+   "dungeon",
+   "gamer humor",
+   "fantasy",
+   "funny"
+  ],
+  "attrs": {
+   "format": "game-ui",
+   "art": "minimal",
+   "subject": "dungeon",
+   "humor": "meta",
+   "palette": "mono"
+  },
+  "batch": 2
+ },
+ {
+  "id": "24_no_continues",
+  "title": "Game Over: No Continues",
+  "track": "sell",
+  "style": "Arcade pixel screen",
+  "hook": "An arcade game-over screen that's a little too real.",
+  "listing": "Game Over No Continues Shirt | Retro Arcade Pixel Tee | Dark Gamer Humor",
+  "tags": [
+   "game over",
+   "arcade",
+   "pixel art",
+   "retro gamer",
+   "dark humor"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "pixel",
+   "subject": "crawler",
+   "humor": "dark",
+   "palette": "neon"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F7_donut_world_tour",
+  "title": "Princess Donut World Tour",
+  "track": "personal",
+  "style": "80s rock tour tee",
+  "hook": "Donut as a stadium headliner. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "band",
+   "art": "80s-synth",
+   "subject": "donut",
+   "humor": "sassy",
+   "palette": "neon"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F8_mongo_good_boy",
+  "title": "Mongo Is A Good Boy",
+  "track": "personal",
+  "style": "Kawaii sticker",
+  "hook": "Chibi Mongo with hearts. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "mongo",
+   "humor": "wholesome",
+   "palette": "pastel"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F9_carl_will_not_break",
+  "title": "Carl: You Will Not Break Me",
+  "track": "personal",
+  "style": "Woodcut portrait",
+  "hook": "Carl's mantra over a gritty engraved portrait. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "woodcut",
+   "subject": "carl",
+   "humor": "quote",
+   "palette": "mono"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F10_mordecai_no",
+  "title": "Mordecai: No.",
+  "track": "personal",
+  "style": "Minimal deadpan",
+  "hook": "Mordecai refuses before hearing the plan. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "typographic",
+   "art": "minimal",
+   "subject": "mordecai",
+   "humor": "quote",
+   "palette": "mono"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F11_magic_missile_girl",
+  "title": "Magical Girl Donut",
+  "track": "personal",
+  "style": "90s anime magical girl",
+  "hook": "Donut transforming and casting Magic Missile. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "anime",
+   "subject": "donut",
+   "humor": "absurd",
+   "palette": "pastel"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F12_you_should_thank_me",
+  "title": "You Should Thank Me (Egypt)",
+  "track": "personal",
+  "style": "Egyptian papyrus",
+  "hook": "Donut as a cat goddess, citing ancient Egypt. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "folk",
+   "subject": "donut",
+   "humor": "quote",
+   "palette": "earthy"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F13_donut_follower_count",
+  "title": "Donut: Followers Pop-up",
+  "track": "personal",
+  "style": "Stream overlay UI",
+  "hook": "The view counter is her real currency. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "game-ui",
+   "art": "pop-art",
+   "subject": "donut",
+   "humor": "meta",
+   "palette": "neon"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F14_samantha_punk_flyer",
+  "title": "Samantha Wants To Fight",
+  "track": "personal",
+  "style": "Punk zine flyer",
+  "hook": "Samantha's bloodlust as a photocopied gig flyer. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "grunge",
+   "subject": "samantha",
+   "humor": "dark",
+   "palette": "dark-red"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F15_katia_crest",
+  "title": "Katia: Shield Of The Party",
+  "track": "personal",
+  "style": "Heraldic crest",
+  "hook": "Katia as the party's knightly protector. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "crest",
+   "art": "vintage-litho",
+   "subject": "katia",
+   "humor": "wholesome",
+   "palette": "earthy"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F16_prepotente_screams",
+  "title": "Prepotente Screams",
+  "track": "personal",
+  "style": "Pop-art comic panel",
+  "hook": "The goat's scream, Lichtenstein-style. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "comic",
+   "art": "pop-art",
+   "subject": "prepotente",
+   "humor": "absurd",
+   "palette": "primary"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F17_zev_press_pass",
+  "title": "Zev: PR Press Pass",
+  "track": "personal",
+  "style": "Lanyard ID badge",
+  "hook": "The fish-faced PR handler's staff pass. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "minimal",
+   "subject": "zev",
+   "humor": "meta",
+   "palette": "primary"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F18_crawl_walk",
+  "title": "The Crawl (Crosswalk)",
+  "track": "personal",
+  "style": "70s album-cover walk",
+  "hook": "The party walking single file down a dungeon hall. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "retro-70s",
+   "subject": "trio",
+   "humor": "wholesome",
+   "palette": "warm-retro"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F19_carls_bomb_shop",
+  "title": "Carl's Bomb Shop",
+  "track": "personal",
+  "style": "Old-time shop sign",
+  "hook": "Hob-lobbers made fresh daily. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "vintage-litho",
+   "subject": "carl",
+   "humor": "absurd",
+   "palette": "warm-retro"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F20_donut_line_art",
+  "title": "Donut Line Art",
+  "track": "personal",
+  "style": "Single-line minimal",
+  "hook": "A quiet, classy Donut silhouette. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "minimal",
+   "subject": "donut",
+   "humor": "wholesome",
+   "palette": "mono"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F21_attack_of_the_good_boy",
+  "title": "Attack Of The Good Boy",
+  "track": "personal",
+  "style": "50s B-movie poster",
+  "hook": "Mongo as a city-stomping kaiju. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "retro-ad",
+   "subject": "mongo",
+   "humor": "absurd",
+   "palette": "warm-retro"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F22_mordecais_bar",
+  "title": "Mordecai's Safe Room Bar",
+  "track": "personal",
+  "style": "Neon bar sign",
+  "hook": "The guide's bar rules in neon. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "neon",
+   "subject": "mordecai",
+   "humor": "absurd",
+   "palette": "neon"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F23_desperado_club",
+  "title": "The Desperado Club",
+  "track": "personal",
+  "style": "Art deco membership card",
+  "hook": "The exclusive club as a 1920s deco emblem. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "crest",
+   "art": "deco",
+   "subject": "dungeon",
+   "humor": "wholesome",
+   "palette": "pink-gold"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F24_barefoot_belligerent",
+  "title": "Barefoot & Belligerent",
+  "track": "personal",
+  "style": "Motorcycle-club patch",
+  "hook": "Carl's jacket as a biker-club back patch. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "metal",
+   "subject": "carl",
+   "humor": "dark",
+   "palette": "mono"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F25_donut_vs_carl_fight",
+  "title": "Donut vs. Carl Fight Night",
+  "track": "personal",
+  "style": "Vintage boxing poster",
+  "hook": "The partners squaring off over the last snack. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "retro-ad",
+   "subject": "trio",
+   "humor": "absurd",
+   "palette": "warm-retro"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F26_made_a_cat_famous",
+  "title": "Achievement: You Made A Cat Famous",
+  "track": "personal",
+  "style": "Game UI pop-up",
+  "hook": "An in-style achievement for creating a celebrity cat. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "game-ui",
+   "art": "pixel",
+   "subject": "system",
+   "humor": "meta",
+   "palette": "neon"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F27_samantha_kawaii",
+  "title": "Samantha Is Not A Doll",
+  "track": "personal",
+  "style": "Kawaii sticker",
+  "hook": "Samantha in pastel, still furious. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "samantha",
+   "humor": "sassy",
+   "palette": "pastel"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F28_mongo_exe",
+  "title": "MONGO.EXE",
+  "track": "personal",
+  "style": "Pixel sprite sheet",
+  "hook": "Mongo as a 16-bit pet sprite. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "pixel",
+   "subject": "mongo",
+   "humor": "gamer",
+   "palette": "neon"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F29_legendary_foot",
+  "title": "Legendary Item: Carl's Foot",
+  "track": "personal",
+  "style": "RPG item card",
+  "hook": "The bare foot as a legendary weapon. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "game-ui",
+   "art": "pixel",
+   "subject": "carl",
+   "humor": "gamer",
+   "palette": "neon"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F30_great_wave_donut",
+  "title": "Princess Donut Off Kanagawa",
+  "track": "personal",
+  "style": "Ukiyo-e woodblock",
+  "hook": "Donut riding the great wave, appalled. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "woodcut",
+   "subject": "donut",
+   "humor": "absurd",
+   "palette": "earthy"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F31_book_stack",
+  "title": "The Crawl Library",
+  "track": "personal",
+  "style": "Book-spine stack",
+  "hook": "Every book's spine in a stack. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "typographic",
+   "art": "retro-70s",
+   "subject": "dungeon",
+   "humor": "wholesome",
+   "palette": "warm-retro"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F32_dungeon_vice",
+  "title": "Dungeon Vice",
+  "track": "personal",
+  "style": "80s cop-show title card",
+  "hook": "Carl and Donut as a synthwave cop duo. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "80s-synth",
+   "subject": "trio",
+   "humor": "absurd",
+   "palette": "neon"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F33_mordecai_field_guide",
+  "title": "Mordecai's Field Guide",
+  "track": "personal",
+  "style": "Vintage manual cover",
+  "hook": "The mushroom advice as a scout handbook. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "label",
+   "art": "vintage-litho",
+   "subject": "mordecai",
+   "humor": "quote",
+   "palette": "earthy"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F34_katia_stained_glass",
+  "title": "Katia Stained Glass",
+  "track": "personal",
+  "style": "Stained-glass window",
+  "hook": "Katia as a cathedral saint of shields. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "ornate",
+   "subject": "katia",
+   "humor": "wholesome",
+   "palette": "primary"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F35_donut_postage_stamp",
+  "title": "Donut Postage Stamp",
+  "track": "personal",
+  "style": "Vintage postage stamp",
+  "hook": "Her Majesty on a commemorative stamp. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "label",
+   "art": "vintage-litho",
+   "subject": "donut",
+   "humor": "wholesome",
+   "palette": "pink-gold"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F36_mongo_sugar_skull",
+  "title": "Mongo Sugar Skull",
+  "track": "personal",
+  "style": "Day of the Dead folk art",
+  "hook": "Mongo's skull in calavera style. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "folk",
+   "subject": "mongo",
+   "humor": "dark",
+   "palette": "primary"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F37_crawl_crew_rubberhose",
+  "title": "The Crawl Crew (1930s Cartoon)",
+  "track": "personal",
+  "style": "Rubber-hose cartoon",
+  "hook": "The trio as an old Saturday cartoon. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "rubber-hose",
+   "subject": "trio",
+   "humor": "wholesome",
+   "palette": "mono"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F38_carl_comic_one",
+  "title": "Carl #1: The Man Without Pants",
+  "track": "personal",
+  "style": "Golden-age comic cover",
+  "hook": "Carl's debut issue. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "comic",
+   "art": "comic",
+   "subject": "carl",
+   "humor": "absurd",
+   "palette": "primary"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F39_the_princess_tarot",
+  "title": "The Princess (Tarot)",
+  "track": "personal",
+  "style": "Tarot card",
+  "hook": "Donut as a major arcana. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "tarot",
+   "art": "ornate",
+   "subject": "donut",
+   "humor": "sassy",
+   "palette": "pink-gold"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F40_borant_corporate",
+  "title": "Borant: We Own Your Planet",
+  "track": "personal",
+  "style": "Retro corporate logo",
+  "hook": "The alien corporation's cheery 70s rebrand. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "typographic",
+   "art": "retro-70s",
+   "subject": "system",
+   "humor": "dark",
+   "palette": "warm-retro"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F41_raptor_crossing",
+  "title": "Mongo Crossing",
+  "track": "personal",
+  "style": "Road sign",
+  "hook": "A yellow warning sign for one specific raptor. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "minimal",
+   "subject": "mongo",
+   "humor": "absurd",
+   "palette": "primary"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F42_smol_queen",
+  "title": "Smol Queen",
+  "track": "personal",
+  "style": "Kawaii chibi",
+  "hook": "Chibi Donut with tiny crown. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "donut",
+   "humor": "wholesome",
+   "palette": "pastel"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F43_carl_most_wanted",
+  "title": "Carl: Most Wanted",
+  "track": "personal",
+  "style": "Wild West wanted poster",
+  "hook": "Carl's bounty from the gods. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "vintage-litho",
+   "subject": "carl",
+   "humor": "dark",
+   "palette": "earthy"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F44_dungeon_dreams_vapor",
+  "title": "Dungeon Dreams (Vaporwave)",
+  "track": "personal",
+  "style": "Vaporwave sunset",
+  "hook": "Donut riding Mongo into a grid sunset. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "80s-synth",
+   "subject": "trio",
+   "humor": "absurd",
+   "palette": "neon"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F45_prepotente_metal",
+  "title": "PREPOTENTE (Doom Metal)",
+  "track": "personal",
+  "style": "Doom-metal band logo",
+  "hook": "The goat as a doom-metal frontman. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "band",
+   "art": "metal",
+   "subject": "prepotente",
+   "humor": "dark",
+   "palette": "mono"
+  },
+  "batch": 2
+ },
+ {
+  "id": "F46_visit_the_dungeon",
+  "title": "Visit The Dungeon",
+  "track": "personal",
+  "style": "WPA travel poster",
+  "hook": "A tourism-board poster for the world's worst holiday. Personal wear only.",
+  "listing": "",
+  "tags": [
+   "fan art"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "retro-70s",
+   "subject": "trio",
+   "humor": "meta",
+   "palette": "warm-retro"
+  },
+  "batch": 2
+ },
+ {
+  "id": "S1_carl_no_pants",
+  "title": "No Pants No Problem",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Rubber Hose sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "rubber-hose",
+   "subject": "carl",
+   "humor": "absurd",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S2_carl_kick_it",
+  "title": "Kick It",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pop Art sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "comic",
+   "art": "pop-art",
+   "subject": "carl",
+   "humor": "gamer",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S3_carl_dynamite",
+  "title": "Carl's Dynamite",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Vintage Litho sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "label",
+   "art": "vintage-litho",
+   "subject": "carl",
+   "humor": "dark",
+   "palette": "dark-red"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S4_carl_barefoot",
+  "title": "Barefoot And Dangerous",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Vintage Litho sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "vintage-litho",
+   "subject": "carl",
+   "humor": "sassy",
+   "palette": "earthy"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S5_carl_spite",
+  "title": "Running On Spite",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Kawaii sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "carl",
+   "humor": "dark",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S6_carl_goddamn_it",
+  "title": "Goddamn It Donut",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Retro 70S sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "typographic",
+   "art": "retro-70s",
+   "subject": "carl",
+   "humor": "quote",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S7_carl_hp_one",
+  "title": "HP 1 Still Kicking",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pixel sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "pixel",
+   "subject": "carl",
+   "humor": "gamer",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S8_carl_boxer_order",
+  "title": "Order Of The Boxer Shorts",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Folk sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "patches",
+   "art": "folk",
+   "subject": "carl",
+   "humor": "absurd",
+   "palette": "earthy"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S9_carl_open_kicking",
+  "title": "Open For Kicking",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Neon sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "neon",
+   "subject": "carl",
+   "humor": "gamer",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S10_donut_magic_missile",
+  "title": "Magic Missile",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Anime sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "anime",
+   "subject": "donut",
+   "humor": "gamer",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S11_donut_bow_princess",
+  "title": "Bow To The Princess",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Ornate sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "crest",
+   "art": "ornate",
+   "subject": "donut",
+   "humor": "sassy",
+   "palette": "pink-gold"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S12_donut_followers",
+  "title": "A Million Followers",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "game-ui",
+   "art": "minimal",
+   "subject": "donut",
+   "humor": "meta",
+   "palette": "pink-gold"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S13_donut_grand_champion",
+  "title": "Grand Champion",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Vintage Litho sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "vintage-litho",
+   "subject": "donut",
+   "humor": "sassy",
+   "palette": "pink-gold"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S14_donut_mongo_no",
+  "title": "Mongo No",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Comic sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "comic",
+   "art": "comic",
+   "subject": "donut",
+   "humor": "quote",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S15_donut_iconic",
+  "title": "Iconic",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pop Art sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "pop-art",
+   "subject": "donut",
+   "humor": "sassy",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S16_donut_empress",
+  "title": "The Empress Tarot",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Ornate sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "tarot",
+   "art": "ornate",
+   "subject": "donut",
+   "humor": "sassy",
+   "palette": "pink-gold"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S17_donut_in_charge",
+  "title": "Tiny But In Charge",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Kawaii sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "donut",
+   "humor": "sassy",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S18_donut_princess_carl",
+  "title": "I Am A Princess Carl",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Retro 70S sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "typographic",
+   "art": "retro-70s",
+   "subject": "donut",
+   "humor": "quote",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S19_mongo_snack_time",
+  "title": "Snack Time",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Kawaii sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "mongo",
+   "humor": "wholesome",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S20_mongo_metal",
+  "title": "Mongo Metal",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Metal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "band",
+   "art": "metal",
+   "subject": "mongo",
+   "humor": "absurd",
+   "palette": "dark-red"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S21_mongo_k9",
+  "title": "Raptor Unit",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Vintage Litho sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "vintage-litho",
+   "subject": "mongo",
+   "humor": "wholesome",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S22_mongo_virtual_pet",
+  "title": "Hunger Always",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pixel sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "pixel",
+   "subject": "mongo",
+   "humor": "gamer",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S23_mongo_rad_raptor",
+  "title": "Rad Raptor",
+  "track": "personal",
+  "product": "sticker",
+  "style": "80S Synth sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "80s-synth",
+   "subject": "mongo",
+   "humor": "absurd",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S24_mongo_beware",
+  "title": "Beware Of Dino",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "minimal",
+   "subject": "mongo",
+   "humor": "absurd",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S25_mongo_bestiary",
+  "title": "Here Be Raptors",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Woodcut sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "woodcut",
+   "subject": "mongo",
+   "humor": "absurd",
+   "palette": "mono"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S26_mongo_zoomies",
+  "title": "Zoomies",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Rubber Hose sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "rubber-hose",
+   "subject": "mongo",
+   "humor": "wholesome",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S27_mongo_loves_you",
+  "title": "Mongo Loves You",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Comic sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "comic",
+   "art": "comic",
+   "subject": "mongo",
+   "humor": "wholesome",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S28_mordecai_potion",
+  "title": "Mordecai's Healing Potion",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Vintage Litho sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "label",
+   "art": "vintage-litho",
+   "subject": "mordecai",
+   "humor": "sassy",
+   "palette": "earthy"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S29_mordecai_read_manual",
+  "title": "Read The Manual",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Comic sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "typographic",
+   "art": "comic",
+   "subject": "mordecai",
+   "humor": "sassy",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S30_mordecai_name_tag",
+  "title": "Ask Me Anything Don't",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "minimal",
+   "subject": "mordecai",
+   "humor": "sassy",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S31_mordecai_hermit",
+  "title": "The Hermit Tarot",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Ornate sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "tarot",
+   "art": "ornate",
+   "subject": "mordecai",
+   "humor": "wholesome",
+   "palette": "earthy"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S32_mordecai_guide_in",
+  "title": "The Guide Is In",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Retro Ad sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "retro-ad",
+   "subject": "mordecai",
+   "humor": "wholesome",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S33_mordecai_ugh",
+  "title": "Ugh",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Kawaii sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "mordecai",
+   "humor": "sassy",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S34_mordecai_good_luck",
+  "title": "Good Luck",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pixel sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "pixel",
+   "subject": "mordecai",
+   "humor": "dark",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S35_mordecai_okayest",
+  "title": "World's Okayest Guide",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Retro 70S sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "retro-70s",
+   "subject": "mordecai",
+   "humor": "meta",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S36_mordecai_stir",
+  "title": "Stir Swear Repeat",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Woodcut sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "woodcut",
+   "subject": "mordecai",
+   "humor": "sassy",
+   "palette": "mono"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S37_katia_hold_line",
+  "title": "Hold The Line",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Ornate sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "crest",
+   "art": "ornate",
+   "subject": "katia",
+   "humor": "wholesome",
+   "palette": "dark-red"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S38_katia_size_up",
+  "title": "Size Up",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Comic sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "comic",
+   "art": "comic",
+   "subject": "katia",
+   "humor": "absurd",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S39_katia_tank",
+  "title": "Tank",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "game-ui",
+   "art": "minimal",
+   "subject": "katia",
+   "humor": "gamer",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S40_katia_protector",
+  "title": "Protector",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Kawaii sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "katia",
+   "humor": "wholesome",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S41_katia_shield_maiden",
+  "title": "Shield Maiden",
+  "track": "personal",
+  "product": "sticker",
+  "style": "80S Synth sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "80s-synth",
+   "subject": "katia",
+   "humor": "wholesome",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S42_katia_deco",
+  "title": "Katia Deco",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Deco sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "deco",
+   "subject": "katia",
+   "humor": "wholesome",
+   "palette": "mono"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S43_katia_grim_metal",
+  "title": "Katia Grim",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Metal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "band",
+   "art": "metal",
+   "subject": "katia",
+   "humor": "dark",
+   "palette": "dark-red"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S44_katia_front_line",
+  "title": "Front Line Club",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Folk sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "patches",
+   "art": "folk",
+   "subject": "katia",
+   "humor": "wholesome",
+   "palette": "earthy"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S45_katia_blocked",
+  "title": "Blocked",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pixel sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "pixel",
+   "subject": "katia",
+   "humor": "gamer",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S46_samantha_stabby",
+  "title": "Stabby",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Kawaii sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "samantha",
+   "humor": "dark",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S47_samantha_body_wanted",
+  "title": "Wanted One Body",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Retro Ad sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "retro-ad",
+   "subject": "samantha",
+   "humor": "absurd",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S48_samantha_demigoddess",
+  "title": "Demigoddess",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Ornate sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "ornate",
+   "subject": "samantha",
+   "humor": "sassy",
+   "palette": "pink-gold"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S49_samantha_strike",
+  "title": "Strike",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Rubber Hose sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "comic",
+   "art": "rubber-hose",
+   "subject": "samantha",
+   "humor": "absurd",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S50_samantha_murder",
+  "title": "I Will Murder You All",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pop Art sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "comic",
+   "art": "pop-art",
+   "subject": "samantha",
+   "humor": "dark",
+   "palette": "dark-red"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S51_samantha_metal",
+  "title": "Samantha Metal",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Metal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "band",
+   "art": "metal",
+   "subject": "samantha",
+   "humor": "dark",
+   "palette": "dark-red"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S52_samantha_kiss_death",
+  "title": "Kiss Of Death",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Neon sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "neon",
+   "subject": "samantha",
+   "humor": "dark",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S53_samantha_death_tarot",
+  "title": "Death Tarot",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Ornate sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "tarot",
+   "art": "ornate",
+   "subject": "samantha",
+   "humor": "dark",
+   "palette": "dark-red"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S54_samantha_she_bites",
+  "title": "Handle With Care",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "label",
+   "art": "minimal",
+   "subject": "samantha",
+   "humor": "absurd",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S55_prepotente_scream",
+  "title": "Goat Scream",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pop Art sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "comic",
+   "art": "pop-art",
+   "subject": "prepotente",
+   "humor": "absurd",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S56_prepotente_magnificent",
+  "title": "Magnificent",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Ornate sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "ornate",
+   "subject": "prepotente",
+   "humor": "sassy",
+   "palette": "pink-gold"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S57_prepotente_crossing",
+  "title": "Goat Crossing",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "minimal",
+   "subject": "prepotente",
+   "humor": "sassy",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S58_prepotente_goty",
+  "title": "Goat Of The Year",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Kawaii sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "prepotente",
+   "humor": "sassy",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S59_prepotente_hail",
+  "title": "Hail The Goat",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Metal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "band",
+   "art": "metal",
+   "subject": "prepotente",
+   "humor": "absurd",
+   "palette": "dark-red"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S60_prepotente_bestiary",
+  "title": "Capra Magnifica",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Woodcut sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "portrait",
+   "art": "woodcut",
+   "subject": "prepotente",
+   "humor": "absurd",
+   "palette": "mono"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S61_prepotente_boss",
+  "title": "Boss Angry Goat",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pixel sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "pixel",
+   "subject": "prepotente",
+   "humor": "gamer",
+   "palette": "dark-red"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S62_prepotente_vibes",
+  "title": "Goat Vibes",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Retro 70S sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "retro-70s",
+   "subject": "prepotente",
+   "humor": "wholesome",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S63_prepotente_cheese",
+  "title": "Prepotente Brand Cheese",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Vintage Litho sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "label",
+   "art": "vintage-litho",
+   "subject": "prepotente",
+   "humor": "absurd",
+   "palette": "earthy"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S64_zev_press_pass",
+  "title": "Press Pass",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "minimal",
+   "subject": "zev",
+   "humor": "meta",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S65_zev_on_schedule",
+  "title": "On Schedule",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Kawaii sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "zev",
+   "humor": "wholesome",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S66_zev_smile",
+  "title": "Smile You're On Camera",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Retro Ad sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "retro-ad",
+   "subject": "zev",
+   "humor": "meta",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S67_zev_pr_fish",
+  "title": "Premium PR Fish",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Vintage Litho sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "label",
+   "art": "vintage-litho",
+   "subject": "zev",
+   "humor": "absurd",
+   "palette": "earthy"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S68_zev_handler",
+  "title": "Your Friendly Handler",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Deco sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "deco",
+   "subject": "zev",
+   "humor": "meta",
+   "palette": "mono"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S69_zev_on_air",
+  "title": "On Air",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Neon sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "neon",
+   "subject": "zev",
+   "humor": "meta",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S70_zev_forms",
+  "title": "Please Sign These Forms",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pixel sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "pixel",
+   "subject": "zev",
+   "humor": "absurd",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S71_zev_damage_control",
+  "title": "Damage Control",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Comic sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "comic",
+   "art": "comic",
+   "subject": "zev",
+   "humor": "meta",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S72_zev_on_brand",
+  "title": "Stay On Brand",
+  "track": "personal",
+  "product": "sticker",
+  "style": "80S Synth sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "80s-synth",
+   "subject": "zev",
+   "humor": "sassy",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S73_system_out_of_bed",
+  "title": "Achievement Got Out Of Bed",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "game-ui",
+   "art": "minimal",
+   "subject": "system",
+   "humor": "gamer",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S74_system_bronze_box",
+  "title": "Bronze Box",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Comic sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "game-ui",
+   "art": "comic",
+   "subject": "system",
+   "humor": "gamer",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S75_system_level_up",
+  "title": "Level Up",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pixel sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "pixel",
+   "subject": "system",
+   "humor": "gamer",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S76_system_viewers",
+  "title": "Nine Billion Viewers",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "game-ui",
+   "art": "minimal",
+   "subject": "system",
+   "humor": "meta",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S77_system_watching",
+  "title": "The System Is Watching",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "minimal",
+   "subject": "system",
+   "humor": "dark",
+   "palette": "mono"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S78_system_collapse",
+  "title": "Floor Collapse Warning",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "minimal",
+   "subject": "system",
+   "humor": "dark",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S79_system_patch_notes",
+  "title": "Patch Notes",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pixel sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "typographic",
+   "art": "pixel",
+   "subject": "system",
+   "humor": "meta",
+   "palette": "mono"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S80_system_sarcasm",
+  "title": "Skill Unlocked Sarcasm",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "game-ui",
+   "art": "minimal",
+   "subject": "system",
+   "humor": "sassy",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S81_system_floor_cleared",
+  "title": "Certified Crawler",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Vintage Litho sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "vintage-litho",
+   "subject": "system",
+   "humor": "gamer",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S82_trio_royal_court",
+  "title": "Royal Court Party",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pixel sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "game-ui",
+   "art": "pixel",
+   "subject": "trio",
+   "humor": "gamer",
+   "palette": "pink-gold"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S83_trio_band",
+  "title": "Crawl Crew Band",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Retro 70S sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "band",
+   "art": "retro-70s",
+   "subject": "trio",
+   "humor": "meta",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S84_trio_stairs",
+  "title": "March To The Stairs",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Rubber Hose sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "rubber-hose",
+   "subject": "trio",
+   "humor": "wholesome",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S85_trio_squad_stack",
+  "title": "Squad Stack",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Kawaii sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "trio",
+   "humor": "wholesome",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S86_trio_fool_tarot",
+  "title": "The Fool Tarot",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Ornate sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "tarot",
+   "art": "ornate",
+   "subject": "trio",
+   "humor": "dark",
+   "palette": "pink-gold"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S87_trio_corridor",
+  "title": "Go Go Go",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Pixel sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "pixel-screen",
+   "art": "pixel",
+   "subject": "trio",
+   "humor": "gamer",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S88_trio_bff",
+  "title": "Best Friends Until Floor 18",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Neon sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "neon",
+   "subject": "trio",
+   "humor": "dark",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S89_trio_kick_first",
+  "title": "Kick First Crest",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Ornate sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "crest",
+   "art": "ornate",
+   "subject": "trio",
+   "humor": "absurd",
+   "palette": "pink-gold"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S90_trio_road_trip",
+  "title": "Next Stop Floor Two",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Retro 70S sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "poster",
+   "art": "retro-70s",
+   "subject": "trio",
+   "humor": "wholesome",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S91_trio_the_crew",
+  "title": "The Crew",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Comic sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "comic",
+   "art": "comic",
+   "subject": "trio",
+   "humor": "wholesome",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S92_dungeon_not_a_chest",
+  "title": "Not A Chest",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Kawaii sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "dungeon",
+   "humor": "absurd",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S93_dungeon_stairwell",
+  "title": "Stairwell",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Minimal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "minimal",
+   "subject": "dungeon",
+   "humor": "gamer",
+   "palette": "primary"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S94_dungeon_safe_room",
+  "title": "Safe Room",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Neon sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "neon",
+   "subject": "dungeon",
+   "humor": "wholesome",
+   "palette": "neon"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S95_dungeon_goblin_run",
+  "title": "Run",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Rubber Hose sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "rubber-hose",
+   "subject": "dungeon",
+   "humor": "absurd",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S96_dungeon_here_be_monsters",
+  "title": "Here Be Monsters",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Vintage Litho sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "badge",
+   "art": "vintage-litho",
+   "subject": "dungeon",
+   "humor": "dark",
+   "palette": "earthy"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S97_dungeon_loot_or_die",
+  "title": "Loot Or Die",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Metal sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "band",
+   "art": "metal",
+   "subject": "dungeon",
+   "humor": "dark",
+   "palette": "dark-red"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S98_dungeon_slime",
+  "title": "Squish",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Kawaii sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "mascot",
+   "art": "kawaii",
+   "subject": "dungeon",
+   "humor": "wholesome",
+   "palette": "pastel"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S99_dungeon_boss_room",
+  "title": "Boss Room Knock First",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Woodcut sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "sign",
+   "art": "woodcut",
+   "subject": "dungeon",
+   "humor": "absurd",
+   "palette": "mono"
+  },
+  "batch": 3
+ },
+ {
+  "id": "S100_dungeon_survived",
+  "title": "I Survived So Far",
+  "track": "personal",
+  "product": "sticker",
+  "style": "Folk sticker",
+  "hook": "Die-cut sticker. Personal use only.",
+  "listing": "",
+  "tags": [
+   "fan art",
+   "sticker"
+  ],
+  "attrs": {
+   "format": "patches",
+   "art": "folk",
+   "subject": "dungeon",
+   "humor": "dark",
+   "palette": "warm-retro"
+  },
+  "batch": 3
+ }
+]
