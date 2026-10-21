@@ -406,5 +406,47 @@
  ],
  "S86_trio_fool_tarot": [
   "upscale 1.3x"
+ ],
+ "S87_trio_corridor": [
+  "upscale 1.3x"
+ ],
+ "S88_trio_bff": [
+  "upscale 1.3x"
+ ],
+ "S89_trio_kick_first": [
+  "upscale 1.3x"
+ ],
+ "S90_trio_road_trip": [
+  "upscale 1.3x"
+ ],
+ "S91_trio_the_crew": [
+  "upscale 1.4x"
+ ],
+ "S92_dungeon_not_a_chest": [
+  "upscale 1.4x"
+ ],
+ "S93_dungeon_stairwell": [
+  "upscale 1.4x"
+ ],
+ "S94_dungeon_safe_room": [
+  "upscale 1.4x"
+ ],
+ "S95_dungeon_goblin_run": [
+  "upscale 1.4x"
+ ],
+ "S96_dungeon_here_be_monsters": [
+  "upscale 1.3x"
+ ],
+ "S97_dungeon_loot_or_die": [
+  "upscale 1.3x"
+ ],
+ "S98_dungeon_slime": [
+  "upscale 1.4x"
+ ],
+ "S99_dungeon_boss_room": [
+  "upscale 1.3x"
+ ],
+ "S100_dungeon_survived": [
+  "upscale 1.4x"
  ]
 }
